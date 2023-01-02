@@ -12,7 +12,7 @@ DESAFIO 2
 
 Design System
 
-![image](https://user-images.githubusercontent.com/105006001/210282652-5b299016-efc4-4a75-b120-b6d6372b4ab9.png)
+![image](https://user-images.githubusercontent.com/105006001/210283024-777ba4d0-6da4-4729-a498-4aabeee74fd8.png)
 
 
 ----------------
