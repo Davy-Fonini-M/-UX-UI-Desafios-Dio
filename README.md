@@ -10,3 +10,9 @@ Wireframe de Média qualidade .
 ---------------
 DESAFIO 2
 
+Design System
+
+![image](https://user-images.githubusercontent.com/105006001/210259901-664f4bef-360b-4063-8acf-df3e6f1cceed.png)
+
+
+----------------
