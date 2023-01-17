@@ -16,3 +16,10 @@ Design System
 
 
 ----------------
+DESAFIO 3
+
+MOCKUP
+
+![image](https://user-images.githubusercontent.com/105006001/212796305-e09d42f1-9cf2-4d4e-9292-1e88c304a899.png)
+
+-------------------
